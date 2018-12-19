@@ -1,40 +1,40 @@
 {
-  "video_list" :
+  video_list:
   [
     {
-      "id":"1",
-      "name":"video1",
-      "episode":"1",
-      "date":"01/10/2018",
-      "uri":"https://github.com/jayeshbhatiya/status-video/blob/master/Videos/birthday_video.mp4"
+      id:"1",
+      name:"video1",
+      episode:"1",
+      date:"01/10/2018",
+      uri:"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     },
     {
-      "id":"2",
-      "name":"video2",
-      "episode":"2",
-      "date":"02/10/2018",
-      "uri":"https://github.com/jayeshbhatiya/status-video/blob/master/Videos/birthday_video.mp4"
+      id:"2",
+      name:"video2",
+      episode:"2",
+      date:"02/10/2018",
+      uri:"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     },
     {
-      "id":"3",
-      "name":"video3",
-      "episode":"3",
-      "date":"03/10/2018",
-      "uri":"https://github.com/jayeshbhatiya/status-video/blob/master/Videos/birthday_video.mp4"
+      id:"3",
+      name:"video3",
+      episod:"3",
+      date:"03/10/2018",
+      uri:"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     },
     {
-      "id":"4",
-      "name":"video4",
-      "episode":"4",
-      "date":"04/10/2018",
-      "uri":"https://github.com/jayeshbhatiya/status-video/blob/master/Videos/birthday_video.mp4"
+      id:"4",
+      name:"video4",
+      episode:"4",
+      date:"04/10/2018",
+      uri:"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     },
     {
-      "id":"5",
-      "name":"video5",
-      "episode":"5",
-      "date":"05/10/2018",
-      "uri":"https://github.com/jayeshbhatiya/status-video/blob/master/Videos/birthday_video.mp4"
+      id:"5",
+      name:"video5",
+      episode:"5",
+      date:"05/10/2018",
+      uri:"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     }
   ]
 }
