@@ -7,6 +7,27 @@
       "episode":"1",
       "date":"01/10/2018",
       "uri":"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
+    },
+    {
+      "id":"2",
+      "name":"video2",
+      "episode":"2",
+      "date":"02/10/2018",
+      "uri":"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
+    },
+    {
+      "id":"3",
+      "name":"video3",
+      "episode":"3",
+      "date":"03/10/2018",
+      "uri":"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
+    },
+    {
+      "id":"4",
+      "name":"video4",
+      "episode":"4",
+      "date":"04/10/2018",
+      "uri":"https://raw.githubusercontent.com/jayeshbhatiya/MyVideoUpload/master/kanha_640_480(2).mp4"
     }
   ]
 }
